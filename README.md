@@ -1,0 +1,1 @@
+Simple script that scrapes the izbori.ba website and returns the overall results and calculates direct and compensation mandates for the General Assembly and entity pairlament levels.
